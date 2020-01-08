@@ -7,6 +7,10 @@ body, html{
     color: white;
     font-family: Poppins, sans-serif;
 }
+.back{
+    background-color: #30505c;
+}
+
 h1{
     color: #F8BF00;
     padding-bottom: 2rem;
@@ -579,9 +583,7 @@ header.masthead .intro-text .intro-heading {
     text-decoration: none;
 }
 
-.back{
-    background-color: #26535c;
-}
+
 .lien{
     color: #e9ecef;
     padding: 10px;
