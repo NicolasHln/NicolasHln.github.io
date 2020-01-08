@@ -608,6 +608,15 @@ hr{
     background-color: #333333;
 }
 
+.class {
+    text-align: center;
+}
+
+.fa-1x{
+    margin-right: 10px;
+}
+
+
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
