@@ -84,7 +84,8 @@ h1{
 
 .btn-xl {
     font-size: 18px;
-    padding: 30px 40px;
+    margin: 5px;
+    padding: 20px 40px;
 }
 
 .btn-primary {
