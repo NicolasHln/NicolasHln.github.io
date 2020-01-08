@@ -553,13 +553,13 @@ header.masthead .intro-text .intro-heading {
 }
 
 .projects-section .project-text {
-    padding: 2.5rem;
+    padding: 3rem;
     font-size: 90%;
 }
 
 @media (min-width: 992px) {
     .projects-section .project-text {
-        padding: 5rem;
+        padding: 4rem;
     }
     .projects-section .project-text hr {
         border-color: #F8BF00;
