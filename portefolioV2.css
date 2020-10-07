@@ -7,8 +7,14 @@ body, html{
     color: white;
     font-family: Poppins, sans-serif;
 }
-.back{
-    background-color: #30505c;
+
+.back {
+    background-image: url("img/coding.jpg");
+    background-size: cover;
+}
+
+.back p {
+    text-shadow: #afb2b5 1px 1px;
 }
 
 h1{
@@ -24,10 +30,6 @@ h1{
 .welcome{
     padding-top: 2rem;
 }
-
-
-
-
 
 #mainNav {
     background-color: #212529;
